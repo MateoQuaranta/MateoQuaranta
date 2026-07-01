@@ -13,7 +13,7 @@ Mi portfolio personal: una landing interactiva hecha con **Next.js + Three.js**.
 ---
 
 ### 🛠️ Stack
-`Next.js` · `React` · `Three.js` · `Tailwind` · `TypeScript` · APIs serverless · `Turso` / `Firebase` · `Google Sheets` (backend liviano) · `Vercel`
+`Next.js` · `React` · `Three.js` · `Tailwind` · `TypeScript` · APIs serverless · `Supabase` `Turso` / `Firebase` · `Google Sheets` (backend liviano) · `Vercel`
 
 ### 🚀 Proyectos
 | Proyecto | Qué es | Estado |
